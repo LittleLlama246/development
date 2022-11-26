@@ -11,7 +11,8 @@ The goal of this application is to show users the different variations of the da
 
 3. Aesthetic and Minimalist Design: There is very little text on the screen, and the text that is very clear in meaning and functionality ("Sort By" & "Filter By" headers, legends for each fieldset, etc.) Additionally, each dog listing has a consistent design, only showing a few of the fields. Fields that are listed on the sort bar are not repreated on the dog cards, but the users are able to see on the left bar which items are choosen, keeping the simplistic design withing forcing the users to recal their selections. 
 
-4. Recognition rather than Recall: The entirety of the application is on one page. Therefore, the user does not have to remember previous actions. 
+4. Recognition rather than Recall: The entirety of the application is on one page. Therefore, the user does not have to remember previous actions. Furthurmore, the radio buttons and checkboxed help users regognize what options they currently have selected. 
+
 ### Organization of Components
 There are 4 main components that make up this app: 
 
