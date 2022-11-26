@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-https:laurenmck.github.io/development
+https://littlellama246.github.io/development/
 ### Goal and Value of the Application
 The goal of this application is to show users the different variations of the dachshund dog breed. This application is valuable for future dachshund owners who are wanting to learn more about their dog options.   
 ### Usability Principles Considered
