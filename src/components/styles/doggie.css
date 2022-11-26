@@ -1,0 +1,64 @@
+img{
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.name{
+  font-family: 'Title';
+  font-size: 25px;
+  font-weight: bolder;
+  color: #464646;
+  display: flex;
+  justify-content: left;
+  margin-left: 15px;
+}
+
+.price{
+  font-family: 'Title';
+  font-size: 21px;
+  color: #464646bd;
+  margin-top: 4.5px;
+}
+
+.iconFaInstagram{
+  color:  #3d5a80;
+  font-size: 2.3rem;
+}
+
+.bottomrow{
+  display: flex;
+  justify-content: center;
+}
+
+.description{
+  margin-left: 20px;
+  margin-right: 10px;
+  font-family: 'Paragraph';
+  font-size: 18px;
+  color: #383838a1;
+}
+
+.fave-label{
+  font-family: 'Paragraph';
+  font-size: 17px;
+  color: white;
+  margin-top: .85rem;
+}
+
+.pricegram{
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  color: rgb(39, 47, 39);
+}
+
+a{
+  color: rgb(39, 47, 39);
+}
+
+.fave{
+  margin-bottom: 5rem;
+}

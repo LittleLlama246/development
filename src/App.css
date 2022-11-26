@@ -1,0 +1,183 @@
+/* Add styling for your page here */
+.App {
+  background-color: #3d5a80;
+}
+
+/* Fonts */
+@font-face {
+  font-family: "Title";   /*Can be any text*/
+  src: local("AirbnbCerealRegular"),
+    url("./fonts/PT_Sans/PTSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Paragraph";   /*Can be any text*/
+  src: local("AirbnbCerealRegular"),
+    url("./fonts/PT_Serif/PTSerif-Regular.ttf") format("truetype");
+}
+
+/* components */
+.header{
+  padding: 30px;
+  width: 100%;
+  height: 20%;
+  background-color: white;
+}
+
+.sort{
+  outline: 2px solid grey;
+  border-radius: 10px;
+  width: 20%;
+  margin-left: 4%;
+  margin-top: 1%;
+  height: 58rem;
+}
+
+fieldset{
+  border-color: rgba(255, 255, 255, 0.49);
+  border-left: none;
+  border-right: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.total{
+  font-family: 'Paragraph';
+  font-size: 23px;
+  color: #6eb4dc;
+  margin-left: 25px;
+  font-weight: bold;
+  margin-top: 25px;
+}
+
+.header-img{
+  margin-top: 5%;
+  margin-left: 15%;
+}
+
+h1{
+  font-family: 'Title';	
+  font-size: 67px;
+  margin-left: 25px;
+  margin-bottom: 5px;
+  color: #edf2f4;
+  float: right;
+}
+
+h2{
+  font-family: 'Andale Mono', 'monospace';	
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: whitesmoke;
+  margin-left: 2%;
+}
+
+legend{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: #6eb4dc;
+  font-weight: bolder;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+label{
+  font-family: 'Title';	
+  font-size: 20px;
+  color: rgb(227, 225, 225);
+  margin-left: .5rem;
+}
+
+input{
+  margin-left: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* buttons, checkbox and radio style */
+.buttonReset {
+  background-color: #6eb4dc;
+  font-family: 'Title';
+  font-size: bold;
+  border: none;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: center;
+  font-size: 27px;
+  border-radius: 10px;
+  margin-left: 5rem;
+  margin-top: 2rem;
+}
+
+.buttonFave {
+  background-color: #6eb4dc;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: bold;
+  border: none;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: center;
+  font-size: 27px;
+  border-radius: 10px;
+  margin-left: 3rem;
+  margin-top: 2rem;
+}
+
+input[type='radio']:after {
+  width: 12px;
+  height: 12px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: #d1d3d1;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 1px solid white;
+}
+
+input[type='radio']:checked:after {
+  width: 12px;
+  height: 12px;
+  border-radius: 15px;
+  top: -2px;
+  left: -1px;
+  position: relative;
+  background-color: #05527f;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 1.5px solid white;
+}
+
+input[type='checkbox']:after {
+  width: 15px;
+  height: 15px;
+  top: -2px;
+  left: -1px;
+  position: center;
+  background-color: #d1d3d1;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 1px solid white;
+}
+
+input[type='checkbox']:checked:after {
+  width: 15px;
+  height: 15px;
+  top: -2px;
+  left: -1px;
+  position: center;
+  background-color: #05527f;
+  content: '';
+  display: inline-block;
+  visibility: visible;
+  border: 1.5px solid white;
+}

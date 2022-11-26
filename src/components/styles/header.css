@@ -1,0 +1,18 @@
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  padding: .75em;
+  margin-bottom: 2em;
+  color: #fff;
+  padding-right: 450px;
+  padding-left: 50px;
+  height: 17rem;
+}
+
+.h1{
+  margin-left: auto;
+  margin-right: auto;
+}

@@ -1,0 +1,280 @@
+[
+  {
+    "name": "Lucy",
+    "color": "Shaded Red",
+    "description": "Deep, rusty red with black hair.",
+    "price": 3000,
+    "commonality": "Common",
+    "coattype": "Solid",
+    "hair": "Long",
+    "image": "images/red-black-long.png",
+    "gram": "https://www.instagram.com/sausagerue/"
+  },
+  {
+    "name": "Wilber",
+    "color": "Red",
+    "description": "A deep, rusty red color.",
+    "price": 750,
+    "commonality": "Common",
+    "coattype": "Solid",
+    "hair": "Smooth",
+    "image": "images/redshort.png",
+    "gram": "https://www.instagram.com/wilbur_von_wiener/"
+  },
+  {
+    "name": "Duke",
+    "color": "Albino",
+    "description": "Completely white with pink points.",
+    "price": 2000,
+    "commonality": "Rare",
+    "coattype": "Solid",
+    "hair": "Smooth",
+    "image": "images/albino-short.png",
+    "gram": "https://www.instagram.com/duke_the.albino.dachshund/"
+  },
+  {
+    "name": "Millie",
+    "color": "Black and Tan",
+    "description": "Black with tan markings on eyebrows, muzzle, chest and legs.",
+    "price": 750,
+    "commonality": "Common",
+    "coattype": "Dual",
+    "hair": "Smooth",
+    "image": "images/black-tan-short.jpeg",
+    "gram": "https://www.instagram.com/dollar.pengoan/"
+  },
+  {
+    "name": "Nelson",
+    "color": "English Cream",
+    "description": "A light brown color that looks whitish or golden.",
+    "price": 3500,
+    "commonality": "Rare",
+    "coattype": "Solid",
+    "hair": "Long",
+    "image": "images/english-cream-long.jpeg",
+    "gram": "https://www.instagram.com/longboy_louis/"
+  },
+  {
+    "name": "Arnie and Leo",
+    "color": "Piebald",
+    "description": "White with brown, black, or tan patches and speckles.",
+    "price": 1050,
+    "commonality": "Rare",
+    "coattype": "Pattern",
+    "hair": "Smooth",
+    "image": "images/piebald.png",
+    "gram": "https://www.instagram.com/bentley_the_ginger_piebald/"
+  },
+  {
+    "name": "Cece",
+    "color": "Isabella and Tan",
+    "description": "A faded, grayish brown with tan markings.",
+    "price": 700,
+    "commonality": "Rare",
+    "coattype": "Dual",
+    "hair": "Smooth",
+    "image": "images/isabella-tan-short.jpeg",
+    "gram": "https://www.instagram.com/arrowandzero/"
+  },
+  {
+    "name": "Marvin",
+    "color": "Blue and Tan Dapple",
+    "description": "Blue and tan with large white patches.",
+    "price": 900,
+    "commonality": "Rare",
+    "coattype": "Pattern",
+    "hair": "Long",
+    "image": "images/dapple.jpeg",
+    "gram": "https://www.instagram.com/bowentinydog/"
+  },
+  {
+    "name": "Zane",
+    "color": "Wild Boar",
+    "description": "A silvery, dark grayish brown with bandings of different colors.",
+    "price": 2000,
+    "commonality": "Rare",
+    "coattype": "Dual",
+    "hair": "Wire",
+    "image": "images/wildboar.jpeg",
+    "gram": "https://www.instagram.com/otis_thewienerdog/"
+  },
+  {
+    "name": "Lily",
+    "color": "Cream",
+    "description": "Golden brown all over, with slight reddish tones.",
+    "price": 800,
+    "commonality": "Common",
+    "coattype": "Solid",
+    "hair": "Long",
+    "image": "images/ream.png",
+    "gram": "https://www.instagram.com/motley_mini_doxie/"
+
+  },
+  {
+    "name": "Heidi",
+    "color": "Chocolate Dapple",
+    "description": "Rich brown base with isabella or light brown speckles.",
+    "price": 900,
+    "commonality": "Rare",
+    "coattype": "Pattern",
+    "hair": "Smooth",
+    "image": "images/chocolate-dapple-1.jpeg",
+    "gram": "https://www.instagram.com/itsolivethesausage/"
+  },
+  {
+    "name": "Ruth",
+    "color": "Black and Cream",
+    "description": "Black with cream markings on eyebrows, muzzle, chest and legs.",
+    "price": 750,
+    "commonality": "Common",
+    "coattype": "Dual",
+    "hair": "Long",
+    "image": "images/black-and-cream.jpeg",
+    "gram": "https://www.instagram.com/tinypeppy/"
+
+  },
+  {
+    "name": "Rob",
+    "color": "Black and Tan Piebald",
+    "description": "Black and tan with large white patches.",
+    "price": 1050,
+    "commonality": "Common",
+    "coattype": "Pattern",
+    "hair": "Smooth",
+    "image": "images/black&tanPiebald.png",
+    "gram": "https://www.instagram.com/the.suburban.sausages/"
+
+  },
+  {
+    "name": "Chico",
+    "color": "Blue",
+    "description": "A steely, bluish-gray color.",
+    "price": 700,
+    "commonality": "Rare",
+    "coattype": "Solid",
+    "hair": "Smooth",
+    "image": "images/blue.jpeg",
+    "gram": "https://www.instagram.com/franko_arlo_the_dachshunds/"
+  },
+  {
+    "name": "Sally",
+    "color": "Blue Dapple",
+    "description": "Steely, dark bluish gray with light gray speckles.",
+    "price": 900,
+    "commonality": "Rare",
+    "coattype": "Pattern",
+    "hair": "Long",
+    "image": "images/bluedapple.jpeg",
+    "gram": "https://www.instagram.com/cappuccinothedachshund/"
+  },
+  {
+    "name": "Kate",
+    "color": "Blue and Cream",
+    "description": "Steely, bluish gray with cream markings on the eyebrows, muzzle, chest and legs.",
+    "price": 1250,
+    "commonality": "Common",
+    "coattype": "Dual",
+    "hair": "Long",
+    "image": "images/blue-cream.jpeg",
+    "gram": "https://www.instagram.com/lifewithweenies/"
+  },
+  {
+    "name": "Blue",
+    "color": "Blue and Tan",
+    "description": "Steely, bluish gray with tan markings on the eyebrows, muzzle, chest and legs.",
+    "price": 950,
+    "commonality": "Common",
+    "coattype": "Dual",
+    "hair": "Smooth",
+    "image": "images/blue-tan.png",
+    "gram": "https://www.instagram.com/oliviathebluehound/"
+  },
+  {
+    "name": "Dennis",
+    "color": "Chocolate",
+    "description": "A solid rich, brown color.",
+    "price": 950,
+    "commonality": "Common",
+    "coattype": "Solid",
+    "hair": "Smooth",
+    "image": "images/chocolate.png",
+    "gram": "https://www.instagram.com/dennis_theminimenace/"
+  },
+  {
+    "name": "Kaitlin",
+    "color": "Chocolate and Cream",
+    "description": "Brown with cream markings on the eyebrows, muzzle, chest and legs.",
+    "price": 750,
+    "commonality": "Common",
+    "coattype": "Dual",
+    "hair": "Long",
+    "image": "images/chocolate-cream.png",
+    "gram": "https://www.instagram.com/littlemisscloverbelle/"
+  },
+  {
+    "name": "Kathy",
+    "color": "Chocolate and Tan",
+    "description": "Brown with tan markings on the eyebrows, muzzle, chest and legs.",
+    "price": 750,
+    "commonality": "Common",
+    "coattype": "Dual",
+    "hair": "Smooth",
+    "image": "images/chocolate:tan.jpeg",
+    "gram": "https://www.instagram.com/chocolateandtandachshund/"
+  },
+  {
+    "name": "Red",
+    "color": "Red Dapple",
+    "description": "A deep, rusty red with speckles of white and pinky-red.",
+    "price": 1300,
+    "commonality": "Rare",
+    "coattype": "Pattern",
+    "hair": "Smooth",
+    "image": "images/redDapple.jpeg",
+    "gram": "https://www.instagram.com/the_southwoofs/"
+  },
+  {
+    "name": "Booga",
+    "color": "Shaded Cream",
+    "description": "Cream or light blondish-brown with black hairs on the ears and tail.",
+    "price": 2750,
+    "commonality": "Common",
+    "coattype": "Solid",
+    "hair": "Long",
+    "image": "images/shadedCream.jpg", 
+    "gram": "https://www.instagram.com/heylookitsrook/"
+  },
+  {
+    "name": "Ralf",
+    "color": "Black",
+    "description": "Completely black with no other colors.",
+    "price": 2750,
+    "commonality": "Rare",
+    "coattype": "Solid",
+    "hair": "Long",
+    "image": "images/black.png",
+    "gram": "https://www.instagram.com/bowentinydog/"
+  },
+  {
+    "name": "Oscar",
+    "color": "Wheaten",
+    "description": "A light golden hue that can include brown or white hues.",
+    "price": 1000,
+    "commonality": "Rare",
+    "coattype": "Solid",
+    "hair": "Wire",
+    "image": "images/wheaten.jpeg",
+    "gram": "https://www.instagram.com/mollybuddyshow/"
+  },
+  {
+    "name": "Dumbo",
+    "color": "White",
+    "description": "Completely white with no other colors.",
+    "price": 700,
+    "commonality": "Rare",
+    "coattype": "Solid",
+    "hair": "Long",
+    "image": "images/white.png",
+    "gram": "https://www.instagram.com/dumbomiuz/"
+  }
+]
