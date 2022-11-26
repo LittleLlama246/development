@@ -9,6 +9,7 @@ import Header from "./components/header.jsx"
 
 dogData.forEach((item) => {
   item.image = process.env.PUBLIC_URL + "./" + item.image;
+  console.log("in app", item.image);
 });
 
 const filterDefaults = {
