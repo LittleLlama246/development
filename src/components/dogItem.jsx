@@ -4,6 +4,7 @@ import { useState } from "react";
 import gram from './photos/insta.png'
  
 function DogItem(dog, handleFavoritesChange, isFavorite) {
+ console.log("image in dog", dog.image);
   return(
     <div class="dog">
       <img src={dog.image} width="300" height="250" />
