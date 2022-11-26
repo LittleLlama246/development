@@ -35,7 +35,7 @@ Functionality Outline:
  - Total Cost. The total cost of all the users favorite dogs are kept track of and displayed to the user. 
 
 Functionality Details:
-There are 4 state variables used in this App (declared using the useState hook). These variables take care of the sorting, filtering, sorting and aggregation functionalities of the sight.
+There are 4 state variables used in this App (declared using the useState hook). These variables take care of the sorting, filtering, sorting and aggregation functionalities of the site.
 
 1. Sort: This variable is a string that represents the field by which to sort the dogs by, either name or price. The variable sort is passed as a prop to DogList and is changed accordingly by using setSortParams when the user selects the sort by "name" or "price" radio button. Inside DogList, the dogs are then sorted by the 'sort' parameter.
 
