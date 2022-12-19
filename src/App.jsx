@@ -8,7 +8,7 @@ import Header from "./components/header.jsx"
 
 
 dogData.forEach((item) => {
-    item.image = "." + item.image;
+    item.image = item.image;
 });
 
 const filterDefaults = {
