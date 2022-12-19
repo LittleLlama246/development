@@ -8,9 +8,7 @@ import Header from "./components/header.jsx"
 
 
 dogData.forEach((item) => {
-//   item.image = process.env.PUBLIC_URL + "./" + item.image;
-  item.image = item.image;
-  console.log("in app", item.image);
+  item.image = process.env.PUBLIC_URL + "./" + item.image;
 });
 
 const filterDefaults = {
@@ -119,7 +117,7 @@ function App() {
 
   return (
     <div className="App">
-      <Header/>
+      <Header total={cost} fave={f}/>
       <div class="container">
         <div class="sort">
         <h2>Sort By</h2>
@@ -166,9 +164,6 @@ function App() {
         <input type="checkbox" checked={f} onChange={(e) => {handleChange(e)}}/>
         <label for="smooth">Favorites</label><br></br>
         <button id='reset' class="buttonReset" onClick={() => handleReset()}>Reset</button>
-
-        <div class="total">Have all your favorite Weiner Dogs for: ${cost}</div>
-
         </div>
 
         <div class="items">
