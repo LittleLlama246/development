@@ -2,7 +2,7 @@
 
 Built an interactive interface in React. The Weiner Web has three filtering capabilities, 2 sorting capabilities, aggregator section and features 25 cute Weiner Dogs.
 
-**Project Duration:** 1.5 weeks
+**Project Duration:** 1.5 weeks <br>
 **Project Type:** Solo Project for User Interface/User Experiance course @ Brown (cs1300)
 
 
