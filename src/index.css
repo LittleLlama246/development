@@ -26,12 +26,14 @@ code {
 }
 
 .items{
+  margin-top: 7rem;
   width: 75%;
   display: flex;
   flex-wrap: wrap;
 }
 
 .sort{
+  margin-top: 7rem;
   width: 25%;
 }
 
