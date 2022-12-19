@@ -3,7 +3,7 @@
 ### Link to Deployed Website
 https://littlellama246.github.io/development/
 ### Goal and Value of the Application
-The goal of this interface is to display and allow users to sort through the different variations of the dachshund dog breed. This application is valuable for future dachshund owners who are wanting to learn more about their dog options within the bread.   
+The goal of this application is to show users and allow them to sort through the different variations of the dachshund dog breed. This application is valuable for future dachshund owners who are wanting to learn more about their dog options within the bread.   
 ### Usability Principles Considered
 1. Visibility of System Status: Users are able to see which sort parameter and filters they have selected and how those selections affect the displayed list of dogs in real time. 
 
