@@ -7,11 +7,12 @@ The goal of this application is to show users and allow them to sort through the
 ### Usability Principles Considered
 1. Visibility of System Status: Users are able to see which sort parameter and filters they have selected and how those selections affect the displayed list of dogs in real time. 
 
+
 2. User Control and Freedom: Users are able to reset their filter choices and can add and take out dogs to their favorites list. This gives users the freedom to undo their actions.
 
 3. Aesthetic and Minimalist Design: There is very little text on the screen, and the text that is very clear in meaning and functionality ("Sort By" & "Filter By" headers, legends for each fieldset, etc.) Additionally, each dog listing has a consistent design, only showing a few of the fields. Fields that are listed on the sort bar are not repeated on the dog cards, but the users are able to see on the left bar which items are chosen, keeping the simplistic design within forcing the users to recall their selections. 
 
-4. Recognition rather than Recall: The entirety of the application is on one page. Therefore, the user does not have to remember previous actions. Furthermore, the radio buttons and checkboxes help users recognize what options they currently have selected. 
+4. Recognition rather than Recall: The sort/filter component stays fixed on the page so as users scrool through the dogs they can see which selections are currently selected. Furthermore, the radio buttons and checkboxes help users recognize what options they currently have selected. 
 
 ### Organization of Components
 There are 4 main components that make up this app: 
