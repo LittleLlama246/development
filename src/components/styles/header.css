@@ -1,18 +1,41 @@
 .Title {
   box-sizing: border-box;
   width: 100%;
-  display: flex; 
-  justify-content: center;
-  align-items: center;
   padding: .75em;
-  margin-bottom: 2em;
-  color: #fff;
-  padding-right: 450px;
-  padding-left: 50px;
-  height: 17rem;
+  height: 7rem;
+  background-color: #25405f;
+  position: fixed;
+  display: flex;
+  top:0;
+}
+
+.header-left{
+  display: flex; 
+  padding-right: 25%;
+  padding-left: 40px; 
+  width: 60%;
+}
+
+#show{
+  display: contents;
+}
+
+#hide{
+  display: none; 
+}
+
+
+.total{
+  font-family: 'Paragraph';
+  font-size: 20px;
+  color: #6eb4dc;
+  margin-left: 15px;
+  font-weight: bold;
+  margin-top: 2rem;
+  display: flex; 
+  width: 40%;
 }
 
 .h1{
-  margin-left: auto;
-  margin-right: auto;
+ justify-content: left;
 }
